@@ -6,5 +6,9 @@ public class Runner {
         System.out.println("hello GIT");
         System.out.println("git add . : staging areaya alır.");
 
+
+        //versiyon 4
+        System.out.println("hi");
+
     }
 }
